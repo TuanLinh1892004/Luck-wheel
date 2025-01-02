@@ -161,6 +161,8 @@ export function App() {
                     setImgUrl(a);
                 }
 
+                setCheat('');
+
                 setIsSpinning(false);
                 clearInterval(interval);
             }
