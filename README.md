@@ -1,4 +1,7 @@
 # Luck-wheel
+
+Link trải nghiệm: https://luckywheel189.web.app/
+
 web vòng quay may mắn
 <br/>
 Ngoài ra có cheat code để vào đúng ô mình cần
